@@ -5,7 +5,7 @@
     </head>
     <body>
         <?php
-        echo "Web Server is Running Locally";
+           require_once(__DIR__ . "/controller/create-db.php");
         ?>
     </body>
 </html>
