@@ -28,7 +28,9 @@ $query = $connection->query("CREATE TABLE posts ("
 
 if ($query) {
     echo "Succesfully created table: posts";
+    
 } else {
+    
     echo "<center><p>$connection->error</p></center>";
 }
 

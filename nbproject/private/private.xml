@@ -14,6 +14,7 @@
         <group>
             <file>file:/C:/xampp/htdocs/MarquezRblog/index.php</file>
             <file>file:/C:/xampp/htdocs/MarquezRblog/view/navigation.php</file>
+            <file>file:/C:/xampp/htdocs/MarquezRblog/controller/create-db.php</file>
             <file>file:/C:/xampp/htdocs/MarquezRblog/view/form.php</file>
             <file>file:/C:/xampp/htdocs/MarquezRblog/controller/create-post.php</file>
         </group>
