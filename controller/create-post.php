@@ -9,7 +9,8 @@ $query = $connection->query("INSERT INTO posts SET title = '$title', post = '$po
 
 if ($query) {
     echo "<p>Successfully inserted post: $title</p>";
-} else {
+} 
+else {
     echo "<p>$connection->error</p>";
 }
 
