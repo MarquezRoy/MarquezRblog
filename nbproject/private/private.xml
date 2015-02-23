@@ -11,12 +11,6 @@
         </file>
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/xampp/htdocs/MarquezRblog/model/Database.php</file>
-            <file>file:/C:/xampp/htdocs/MarquezRblog/view/navigation.php</file>
-            <file>file:/C:/xampp/htdocs/MarquezRblog/controller/create-db.php</file>
-            <file>file:/C:/xampp/htdocs/MarquezRblog/controller/create-post.php</file>
-            <file>file:/C:/xampp/htdocs/MarquezRblog/model/config.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
